@@ -1,1 +1,7 @@
 build
+
+# environment variables
+.env
+.env*
+.env.*
+
